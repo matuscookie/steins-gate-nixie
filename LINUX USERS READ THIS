@@ -1,0 +1,25 @@
+## Quick start
+
+**1. Get the file** (pick one):
+
+- **Download ZIP:** click the green **Code** button at the top of this page, then **Download ZIP**, and unzip it.
+- **Just the script:** download `steins_gate_nixie.py` by itself, since the logo is built in.
+- **Git:**
+```bash
+  git clone https://github.com/YOUR-USERNAME/steins-gate-nixie.git
+  cd steins-gate-nixie
+```
+
+**2. (Optional) Install Pillow** for smoother logo scaling:
+
+```bash
+pip install pillow
+```
+
+**3. Run it:**
+
+```bash
+python steins_gate_nixie.py
+```
+
+On Windows you can also use `py steins_gate_nixie.py`, and on macOS or Linux use `python3 steins_gate_nixie.py`.
