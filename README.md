@@ -1,7 +1,7 @@
 Steins;Gate Nixie Clock & Divergence Meter
 
 A desktop widget in the style of the nixie tube divergence meter from Steins;Gate.
-<img width="597" height="174" alt="image" src="https://github.com/user-attachments/assets/2c5e9bd5-88d4-4f95-9afb-116ded3ea8ca" />
+
 
 Features
 Clock mode: HH:MM:SS across eight tubes, with blinking colons, 12/24-hour time, and an automatic cathode "cleaning" spin at the top of every hour.
@@ -10,6 +10,8 @@ Wire-style digits: thin glowing wires, with the unlit digits visible stacked ins
 Dark smoked glass (default) or clear glass that shows your desktop through the tubes.
 Borderless, draggable, always-on-top window, with four sizes.
 Future Gadget Lab pin on the side. Click it to flip between clock and meter.
+<img width="549" height="147" alt="image" src="https://github.com/user-attachments/assets/28edb2fb-2258-402e-966b-5654776e1760" />
+
 
 Requirements
 Python 3 with tkinter (included with most Python installs for Windows and macOS)
