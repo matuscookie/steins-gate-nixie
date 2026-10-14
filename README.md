@@ -39,5 +39,6 @@ With clear glass on, grab the widget by a tube's outline, the mesh, or the base.
 
 This is a unofficial fan made project enjoy 
 El phsy congro...
-<img width="400" height="400" alt="image_400" src="https://github.com/user-attachments/assets/cba4e2b6-943d-4d31-b3f8-c1121b01ff02" />
+
+<img width="400" height="400" alt="image_400 (1)" src="https://github.com/user-attachments/assets/cb9d6da8-8ef7-40ba-90d5-a32e7433b01a" />
 
